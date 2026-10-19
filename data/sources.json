@@ -1,0 +1,90 @@
+[
+  {
+    "category": "legislation",
+    "name": "Bangladesh Laws",
+    "url": "https://bdlaws.minlaw.gov.bd/",
+    "authority": "Government of Bangladesh",
+    "access": "public",
+    "verified_content": false
+  },
+  {
+    "category": "legislation",
+    "name": "Legislative Division",
+    "url": "https://legislativediv.gov.bd/",
+    "authority": "Government of Bangladesh",
+    "access": "public",
+    "verified_content": false
+  },
+  {
+    "category": "gazette",
+    "name": "Bangladesh Government Press",
+    "url": "https://www.dpp.gov.bd/",
+    "authority": "Government of Bangladesh",
+    "access": "public",
+    "verified_content": false
+  },
+  {
+    "category": "case_law",
+    "name": "Supreme Court",
+    "url": "https://www.supremecourt.gov.bd/",
+    "authority": "Supreme Court of Bangladesh",
+    "access": "public",
+    "verified_content": false
+  },
+  {
+    "category": "cause_list",
+    "name": "Judiciary e-Cause List",
+    "url": "https://causelist.judiciary.gov.bd/",
+    "authority": "Bangladesh Judiciary",
+    "access": "public portal",
+    "verified_content": false
+  },
+  {
+    "category": "regulator",
+    "name": "Bangladesh Bank",
+    "url": "https://www.bb.org.bd/",
+    "authority": "Bangladesh Bank",
+    "access": "public",
+    "verified_content": false
+  },
+  {
+    "category": "regulator",
+    "name": "BFIU",
+    "url": "https://www.bfiu.org.bd/",
+    "authority": "BFIU",
+    "access": "public",
+    "verified_content": false
+  },
+  {
+    "category": "academic",
+    "name": "UGC Bangladesh",
+    "url": "https://ugc.gov.bd/",
+    "authority": "UGC",
+    "access": "public",
+    "verified_content": false
+  },
+  {
+    "category": "library",
+    "name": "Parliament Library Catalogue",
+    "url": "https://catalog.parliament.gov.bd/",
+    "authority": "Jatiya Sangsad",
+    "access": "catalogue",
+    "verified_content": false
+  },
+  {
+    "category": "academic",
+    "name": "Dhaka University Law Journal",
+    "url": "https://journals.du.ac.bd/index.php/dulj",
+    "authority": "University of Dhaka",
+    "access": "journal",
+    "verified_content": false
+  },
+  {
+    "category": "academic",
+    "name": "Rajshahi University Law Journal",
+    "url": "https://csg.ru.ac.bd/lawjournal/",
+    "authority": "University of Rajshahi",
+    "access": "journal",
+    "verified_content": false
+  }
+]
