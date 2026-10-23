@@ -1,0 +1,14 @@
+[
+  {"id":"bdlaws","name":"Bangladesh Laws","url":"https://bdlaws.minlaw.gov.bd/","category":"primary_statutes","access":"public","status":"entry_point_review_required"},
+  {"id":"gazette","name":"Bangladesh Government Press","url":"https://www.dpp.gov.bd/","category":"official_gazettes","access":"public","status":"entry_point_review_required"},
+  {"id":"supremecourt","name":"Bangladesh Supreme Court","url":"https://www.supremecourt.gov.bd/","category":"official_case_law","access":"public_mixed","status":"entry_point_review_required"},
+  {"id":"judiciary","name":"Bangladesh Judiciary","url":"https://judiciary.gov.bd/","category":"official_courts","access":"public_mixed","status":"entry_point_review_required"},
+  {"id":"causelist","name":"e-Cause List","url":"https://causelist.judiciary.gov.bd/","category":"official_cause_lists","access":"public_mixed","status":"entry_point_review_required"},
+  {"id":"bb","name":"Bangladesh Bank","url":"https://www.bb.org.bd/","category":"official_banking_regulation","access":"public_mixed","status":"entry_point_review_required"},
+  {"id":"bfiu","name":"BFIU","url":"https://www.bfiu.org.bd/","category":"official_aml_regulation","access":"public_mixed","status":"entry_point_review_required"},
+  {"id":"ugc","name":"University Grants Commission","url":"https://ugc.gov.bd/","category":"university_directory","access":"public_mixed","status":"entry_point_review_required"},
+  {"id":"parliament_library","name":"Jatiya Sangsad Library Catalogue","url":"https://catalog.parliament.gov.bd/","category":"book_catalogue","access":"public_mixed","status":"entry_point_review_required"},
+  {"id":"du_law_journal","name":"Dhaka University Law Journal","url":"https://journals.du.ac.bd/index.php/dulj","category":"secondary_academic","access":"open_access_check_license","status":"entry_point_review_required"},
+  {"id":"ru_law_journal","name":"Rajshahi University Law Journal","url":"https://csg.ru.ac.bd/lawjournal/","category":"secondary_academic","access":"public_mixed","status":"entry_point_review_required"},
+  {"id":"bracu_law","name":"BRAC University Law Subject Guide","url":"https://library.bracu.ac.bd/subject-guides/law","category":"university_library","access":"public_and_subscribed","status":"entry_point_review_required"}
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "title": "The Contract Act, 1872",
+    "year": 1872,
+    "act_number": "IX of 1872",
+    "status": "unverified",
+    "retrieved_on": "2026-10-20",
+    "source_url": "https://bdlaws.minlaw.gov.bd/act-print-26.html",
+    "verification_note": "Section summaries checked against official online Act on 2026-10-20; current consolidated legal status and amendments require editorial verification.",
+    "keywords": ["contract", "agreement", "consideration", "চুক্তি"],
+    "sections": [
+      {
+        "number": "10",
+        "heading": "What agreements are contracts",
+        "explanation": "Section 10 generally requires free consent, competent parties, lawful consideration, a lawful object, and no express statutory declaration of voidness. Other laws may require writing, witnesses or registration.",
+        "example": "If two competent adults freely agree to buy and sell lawful goods for an agreed price, the basic contractual elements may be present; other applicable statutory requirements must still be checked.",
+        "source_url": "https://bdlaws.minlaw.gov.bd/act-26/act-chapter-print-80.html"
+      },
+      {
+        "number": "11",
+        "heading": "Who are competent to contract",
+        "explanation": "Contractual capacity depends on the age of majority under applicable law, soundness of mind, and absence of legal disqualification.",
+        "example": "A purported contract signed by a person lacking legal capacity must be examined for enforceability before relying on it.",
+        "source_url": "https://bdlaws.minlaw.gov.bd/act-26/act-chapter-print-80.html"
+      },
+      {
+        "number": "23",
+        "heading": "Lawful consideration and object",
+        "explanation": "An agreement's purpose or consideration may be unlawful if forbidden by law, fraudulent, harmful, or contrary to public policy under this provision.",
+        "example": "A promise to pay someone for a prohibited act does not become enforceable merely because both parties sign a document.",
+        "source_url": "https://bdlaws.minlaw.gov.bd/act-print-26/section-print-186.html"
+      },
+      {
+        "number": "25",
+        "heading": "Agreement without consideration",
+        "explanation": "Section 25 states a general rule that agreements without consideration are void, subject to specified exceptions that must be checked in the section text.",
+        "example": "A promise to make a gift without anything in return may not create an enforceable contract unless a statutory exception applies.",
+        "source_url": "https://bdlaws.minlaw.gov.bd/act-print-26/section-print-188.html"
+      }
+    ]
+  },
+  {
+    "title": "The Abandoned Buildings (Supplementary Provisions) Ordinance, 1985",
+    "year": 1985,
+    "act_number": "LIV of 1985",
+    "status": "repealed",
+    "retrieved_on": "2026-10-20",
+    "source_url": "https://bdlaws.minlaw.gov.bd/",
+    "verification_note": "Repealed label came from the user-supplied index and has not been independently verified; verify replacement Act and transitional provisions.",
+    "keywords": ["property", "buildings", "abandoned"],
+    "sections": []
+  },
+  {
+    "title": "The Code of Civil Procedure, 1908",
+    "year": 1908,
+    "act_number": "V of 1908",
+    "status": "unverified",
+    "retrieved_on": "2026-10-20",
+    "source_url": "https://bdlaws.minlaw.gov.bd/",
+    "verification_note": "Catalog title only; sections, current amendments including 2026, and procedural rules not yet verified.",
+    "keywords": ["civil", "procedure", "দেওয়ানি"],
+    "sections": []
+  },
+  {
+    "title": "ব্যাংক-কোম্পানী আইন, ১৯৯১",
+    "year": 1991,
+    "act_number": "১৪",
+    "status": "unverified",
+    "retrieved_on": "2026-10-20",
+    "source_url": "https://bdlaws.minlaw.gov.bd/",
+    "verification_note": "Catalog title only; check original Act, 2023 amendments, and subsequent changes.",
+    "keywords": ["banking", "finance", "ব্যাংক"],
+    "sections": []
+  }
+]

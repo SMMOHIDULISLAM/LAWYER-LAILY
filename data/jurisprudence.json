@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "records": [],
+  "required_fields": [
+    "case_name",
+    "court",
+    "jurisdiction",
+    "decision_date",
+    "citation",
+    "source_url",
+    "procedural_history",
+    "material_facts",
+    "issues",
+    "holding",
+    "ratio",
+    "disposition",
+    "precedent_scope",
+    "later_history",
+    "verification_state",
+    "retrieved_on"
+  ],
+  "ingestion_policy": {
+    "primary_sources_first": true,
+    "never_invent_citations": true,
+    "human_review_required": true,
+    "copyright_and_access_review_required": true,
+    "unresolved_cases_must_be_labelled": true
+  }
+}
